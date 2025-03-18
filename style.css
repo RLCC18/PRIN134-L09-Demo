@@ -45,3 +45,20 @@ ol li {
 .highlighted {
   background-color: teal;
 }
+
+.container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  display: inline-block;
+  padding: 2%;
+
+}
